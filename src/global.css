@@ -2,10 +2,22 @@
 
 body {
   background-color: #191919;
+  padding: 30px 280px;
 
   font-family: "DM Sans";
 }
 
-a {
+.app {
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+p,
+a,
+h1,
+h2,
+h3,
+span {
   color: white;
 }

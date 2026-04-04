@@ -1,0 +1,43 @@
+.hero {
+  gap: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.hero-body {
+  gap: 60px;
+  display: flex;
+  flex-direction: column;
+
+  padding-top: 130px;
+}
+
+.hero-heading {
+  font-size: 70px;
+  letter-spacing: 3.2px;
+  word-spacing: 3px;
+}
+
+.level {
+  font-size: 75px;
+  font-weight: bold;
+  line-height: 88px;
+}
+
+.listen-on {
+  gap: 17px;
+  display: flex;
+  flex-direction: column;
+
+  padding-left: 25px;
+}
+
+.listen-on-heading {
+  font-size: 15px;
+}
+
+.music-platforms {
+  gap: 16px;
+  display: flex;
+}

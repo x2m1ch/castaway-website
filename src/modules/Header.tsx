@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-import logo from "../assets/images/logo.svg";
+import logo from "../assets/images/header/logo.svg";
 
 import "./styles/header.css";
 
