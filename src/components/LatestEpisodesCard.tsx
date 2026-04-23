@@ -13,9 +13,9 @@ export const LatestEpisodesCard = (props: {
       <section className="episodes-card-body">
         <div className="episodes-card-tag">{props.tagName}</div>
         <section className="episodes-card-none-tag">
-          <p className="episode-number">Episode {props.episodeNumber}</p>
+          <p className="tag">Episode {props.episodeNumber}</p>
           <h2 className="episodes-card-heading">{props.cardHeading}</h2>
-          <p className="episodes-card-description">{props.cardDescription}</p>
+          <p>{props.cardDescription}</p>
           <button>View Episodes Details</button>
         </section>
       </section>

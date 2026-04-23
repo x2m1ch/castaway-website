@@ -4,6 +4,7 @@ import { Hero } from "./modules/Hero";
 import "./reset.css";
 import "./global.css";
 import { LatestEpisodes } from "./modules/LatestEpisodes";
+import { Jacob } from "./modules/Jacob";
 
 export const App = () => {
   return (
@@ -11,6 +12,7 @@ export const App = () => {
       <Header />
       <Hero />
       <LatestEpisodes />
+      <Jacob />
     </div>
   );
 };

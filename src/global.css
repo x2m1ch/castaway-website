@@ -8,7 +8,7 @@ body {
 }
 
 .app {
-  gap: 30px;
+  gap: 60px;
   display: flex;
   flex-direction: column;
 }
@@ -20,6 +20,11 @@ h2,
 h3,
 span {
   color: white;
+}
+
+p {
+  color: rgb(170, 163, 163);
+  font-size: 22px;
 }
 
 button {
@@ -34,4 +39,8 @@ button {
 h2 {
   font-size: 60px;
   letter-spacing: 2.88px;
+}
+
+.tag {
+  color: #118da8;
 }
