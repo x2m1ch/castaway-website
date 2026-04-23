@@ -1,0 +1,19 @@
+.latest-episodes {
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+
+  padding: 20px 25px;
+}
+
+.latest-episodes-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.episodes-card-section {
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+}
