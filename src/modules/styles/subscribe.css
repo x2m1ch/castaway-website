@@ -1,0 +1,19 @@
+.subscribe {
+  display: flex;
+  justify-content: space-between;
+
+  background-image: url(/src/assets/images/subscribe/background.png);
+  background-repeat: no-repeat;
+  padding: 70px 100px;
+  width: 100%;
+  height: 100vh;
+}
+
+.subscribe-inputs {
+  gap: 18px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: column;
+
+  padding: 10px 0;
+}

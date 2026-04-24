@@ -36,6 +36,17 @@ button {
   font-size: 17px;
 }
 
+input {
+  background-color: #191919;
+  border-radius: 6px;
+  padding: 20px 15px;
+  width: 500px;
+  height: 60px;
+
+  color: white;
+  font-size: 20px;
+}
+
 h2 {
   font-size: 60px;
   letter-spacing: 2.88px;
@@ -43,4 +54,5 @@ h2 {
 
 .tag {
   color: #118da8;
+  font-size: 18px;
 }
